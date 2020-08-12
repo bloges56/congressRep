@@ -1,0 +1,45 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#basic_info {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+
+
+#name_logo {
+    display:flex;
+    background-color: firebrick;
+}
+
+#party{
+    height: 5%;
+    width: 5%;
+    object-fit: contain;
+}
+
+#name{
+    font-size: xx-large;
+    margin: 5px;
+}
+
+#district{
+    margin-left: 10px;
+}
+
+#profile_pic{
+    order: 1;
+    align-self: flex-start;
+}
+
+
+ 
+
+
+
+
